@@ -1,6 +1,3 @@
-# 💫 About Me:
-## 👩‍💻 About Me<br><br>Hi! I'm Khushi, a B.Tech AIML student passionate about building intelligent software that combines AI with modern web development.<br><br>I enjoy creating production-ready applications—from enterprise workflow systems and machine learning platforms to full-stack web apps with clean UI/UX.<br><br>Currently focused on:<br>- 🤖 AI Applications<br>- ⚛️ React & TypeScript<br>- 🐍 Python & FastAPI<br>- ☁️ Cloud Deployment<br>- 📊 Machine Learning<br>
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/khushi-kogganur-27838b229) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:khushikogganur@gmail.com) 
